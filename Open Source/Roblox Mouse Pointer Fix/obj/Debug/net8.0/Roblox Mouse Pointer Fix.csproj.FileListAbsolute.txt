@@ -1,0 +1,14 @@
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\bin\Debug\net8.0\Roblox Mouse Pointer Fix.exe
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\bin\Debug\net8.0\Roblox Mouse Pointer Fix.deps.json
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\bin\Debug\net8.0\Roblox Mouse Pointer Fix.runtimeconfig.json
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\bin\Debug\net8.0\Roblox Mouse Pointer Fix.dll
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\bin\Debug\net8.0\Roblox Mouse Pointer Fix.pdb
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.AssemblyInfoInputs.cache
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.AssemblyInfo.cs
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.csproj.CoreCompileInputs.cache
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.dll
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\refint\Roblox Mouse Pointer Fix.dll
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.pdb
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\Roblox Mouse Pointer Fix.genruntimeconfig.cache
+C:\Users\vynve\source\repos\Roblox Mouse Pointer Fix\Roblox Mouse Pointer Fix\obj\Debug\net8.0\ref\Roblox Mouse Pointer Fix.dll
